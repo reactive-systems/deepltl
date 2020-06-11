@@ -126,7 +126,7 @@ To generate a propositional logic dataset, the following additional package is r
 
 The **prop-35** dataset was created by calling
 ```
-python -m deepltl.data.sat_generator --num-aps 5 --num-examples 1000000 --max-size 35 --alpha 0.095 --target-directory data
+python -m deepltl.data.sat_generator --num-aps 5 --num-examples 1000000 --max-size 35 --alpha 0.095 --target-directory data_prop
 ```
 Different node distributions and minimal sizes have to be set manually in the code.
 
