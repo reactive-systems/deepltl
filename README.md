@@ -135,7 +135,7 @@ Different node distributions and minimal sizes have to be set manually in the co
 ```
 @article{deepltl,
   title    = {Transformers Generalize to the Semantics of Logics},
-  author   = {Hahn, Christopher and Schmitt, Frederik and Kreber, Jens and Rabe, Markus N and Finkbeiner, Bernd},
+  author   = {Hahn, Christopher and Schmitt, Frederik and Kreber, Jens U and Rabe, Markus N and Finkbeiner, Bernd},
   journal  = {arXiv preprint arXiv:2003.04218},
   year     = {2020}
 }
