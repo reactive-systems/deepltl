@@ -133,10 +133,12 @@ Different node distributions and minimal sizes have to be set manually in the co
 ## How To Cite
 
 ```
-@article{deepltl,
-  title    = {Teaching Temporal Logics to Neural Networks},
-  author   = {Hahn, Christopher and Schmitt, Frederik and Kreber, Jens U and Rabe, Markus N and Finkbeiner, Bernd},
-  journal  = {arXiv preprint arXiv:2003.04218},
-  year     = {2020}
+@inproceedings{deepltl,
+  author    = {Christopher Hahn and Frederik Schmitt and Jens U. Kreber and Markus Norman Rabe and Bernd Finkbeiner},
+  title     = {Teaching Temporal Logics to Neural Networks},
+  booktitle = {9th International Conference on Learning Representations, {ICLR} 2021, Virtual Event, Austria, May 3-7, 2021},
+  publisher = {OpenReview.net},
+  year      = {2021},
+  url       = {https://openreview.net/forum?id=dOcQK-f4byz}
 }
 ```
